@@ -1,0 +1,33 @@
+{
+  "name": "accents",
+  "version": "1.0.0",
+  "description": "Remove all accents lightly.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Hallss <hallss93@hotmail.com>",
+  "license": "ISC",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/hallss93/accents.git"
+  },
+  "keywords": [
+    "js",
+    "javascript",
+    "fs",
+    "svg",
+    "node",
+    "png",
+    "img",
+    "path",
+    "generator",
+    "image",
+    "convert",
+    "canvas"
+  ],
+  "bugs": {
+    "url": "https://github.com/hallss93/accents/issues"
+  },
+  "homepage": "https://github.com/hallss93/accents#readme"
+}
