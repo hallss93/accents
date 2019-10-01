@@ -5,5 +5,5 @@ module.exports = function (txt) {
 		.replace(new RegExp('[ÍÌÎ]', 'gi'), 'i')
 		.replace(new RegExp('[ÓÒÔÕ]', 'gi'), 'o')
 		.replace(new RegExp('[ÚÙÛ]', 'gi'), 'u')
-		.replace(new RegExp('[Ç]', 'gi'), 'c').
+		.replace(new RegExp('[Ç]', 'gi'), 'c')
 }
